@@ -24,7 +24,7 @@ The Notebook provides several Markdown cells, to help reader understan the proce
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://twindai.medium.com/what-is-the-most-valuable-book-on-amazon-6e40a87772c5).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
