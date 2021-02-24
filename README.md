@@ -33,3 +33,9 @@ And the running code can be found on Kaggle: [Amazon Best Selling Book Data Anal
 Must give credit to Amazon for the data. 
 Here is the Licensing for the data at the Kaggle link available [here](https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019).
 
+## Acknowledgment
+I must thanks for kaggle platform prodives many valuable data analysis example and transparent knwoledge. 
+To Analysis amazon book data, my work was inspired by :
+https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019
+https://www.kaggle.com/paotografi/amazon-2009-2019-best-selling-book-eda
+https://www.kaggle.com/arushchillar/amazon-top-selling-books-eda
