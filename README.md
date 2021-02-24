@@ -26,6 +26,8 @@ The Notebook provides several Markdown cells, to help reader understan the proce
 
 The main findings of the code can be found at the post available [here](https://twindai.medium.com/what-is-the-most-valuable-book-on-amazon-6e40a87772c5).
 
+And the running code can be found on Kaggle: [Amazon Best Selling Book Data Analysis](https://www.kaggle.com/guandai/amazon-best-selling-book-data-analysis)
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Amazon for the data. 
